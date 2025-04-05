@@ -1,4 +1,4 @@
-package com.endava.internship;
+package boundedWildcards;
 
 // Bounded Wildcard arguments.
 
